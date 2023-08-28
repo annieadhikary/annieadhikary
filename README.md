@@ -1,5 +1,1 @@
-- 👋 Hi, I'm @annieadhikary
-- 👩‍🔬 I’m currently working on ... identifying robust biomarkers for autism.
-- 💻 I’m currently learning ... binary classification using neural networks.
-- 🧠 I’m interested in ... computational neuroscience and biomedical engineering.
-- 📫 How to reach me ... adhikaryannie@gmail.com.
+- 👩‍🔬 Hi, I'm Annie.
